@@ -1,7 +1,7 @@
 # Google_Geocoding_API
 *This is a beginner's guidance for using google geocoding api.*   
     
-By sending requests to Google Geocoding API, we could format the addresses text and obtain corresponding longitudes and latitudes.    
+By sending requests to Google Geocoding API, one could format the addresses text and obtain corresponding longitudes and latitudes.    
 To use Google geocoding api, you have to finish the following steps ahead:
 - Set Up in the Google Cloud Console
 - Creat a new project
